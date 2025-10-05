@@ -2,7 +2,7 @@
 
 - 🔭 Desenvolvendo sempre novos projetos para aprendizado.
 - 🌱 Atualmente aprendendo FrontEnd, iniciando Javascript.
-- 💬 Quem acredita sempre aclança!
+- 💬 Quem acredita sempre alcança!
 - 📫 Caso queira falar comigo, em alguma das redes dos ícones abaixo ou no e-mail lucasvalpereiro@hotmail.com
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucasValpereiro&show_icons=true&theme=chartreuse-dark)
@@ -26,8 +26,8 @@
 </div>
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/LucasValpereiro/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/LucasValpereiro/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucasValpereiro/LucasValpereiro/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LucasValpereiro/LucasValpereiro/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LucasValpereiro/LucasValpereiro/output/github-contribution-grid-snake.svg">
 </picture>
 
