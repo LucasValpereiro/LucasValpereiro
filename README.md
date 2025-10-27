@@ -1,5 +1,9 @@
 ## Olá, eu sou Lucas Valpereiro, seja bem-vindo!
 
+<div align="center">
+  https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmU0Y2JqOGJwMjdmdGIzMWdhNjRybjhyOHJpdDZtbzRhMXBvNXh5MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jh7F7XwHTywg85ekdl/giphy.gif
+</div>
+
 - 🔭 Desenvolvendo sempre novos projetos para aprendizado.
 - 🌱 Atualmente aprendendo FrontEnd, iniciando Javascript.
 - 💬 Quem acredita sempre alcança!
