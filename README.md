@@ -1,7 +1,7 @@
 ## Olá, eu sou Lucas Valpereiro, seja bem-vindo!
 
 <div align="center">
-  https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmU0Y2JqOGJwMjdmdGIzMWdhNjRybjhyOHJpdDZtbzRhMXBvNXh5MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jh7F7XwHTywg85ekdl/giphy.gif
+  <img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmU0Y2JqOGJwMjdmdGIzMWdhNjRybjhyOHJpdDZtbzRhMXBvNXh5MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jh7F7XwHTywg85ekdl/giphy.gif" width="100">
 </div>
 
 - 🔭 Desenvolvendo sempre novos projetos para aprendizado.
