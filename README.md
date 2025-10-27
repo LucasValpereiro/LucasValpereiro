@@ -4,6 +4,8 @@
   <img src= "https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aXhlODRydG95aG05NnFoNnVyOXpieXRuY3IzczZ4eGRveXNjY2x0eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/H03PuVdwREB21ANkLX/giphy.gif" width="400">
 </div>
 
+
+
 - 🔭 Desenvolvendo sempre novos projetos para aprendizado.
 - 🌱 Atualmente aprendendo FrontEnd, iniciando Javascript.
 - 💬 Quem acredita sempre alcança!
