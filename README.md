@@ -1,7 +1,7 @@
 ## Olá, eu sou Lucas Valpereiro, seja bem-vindo!
 
 <div align="center">
-  <img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmU0Y2JqOGJwMjdmdGIzMWdhNjRybjhyOHJpdDZtbzRhMXBvNXh5MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jh7F7XwHTywg85ekdl/giphy.gif" width="400">
+  <img src= "https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aXhlODRydG95aG05NnFoNnVyOXpieXRuY3IzczZ4eGRveXNjY2x0eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/H03PuVdwREB21ANkLX/giphy.gif" width="400">
 </div>
 
 - 🔭 Desenvolvendo sempre novos projetos para aprendizado.
@@ -34,6 +34,10 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LucasValpereiro/LucasValpereiro/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LucasValpereiro/LucasValpereiro/output/github-contribution-grid-snake.svg">
 </picture>
+
+<div align="center">
+  <img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmU0Y2JqOGJwMjdmdGIzMWdhNjRybjhyOHJpdDZtbzRhMXBvNXh5MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jh7F7XwHTywg85ekdl/giphy.gif" width="400">
+</div>
 
 
 
