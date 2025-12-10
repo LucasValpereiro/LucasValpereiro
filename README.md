@@ -9,7 +9,7 @@
 - 💬 Quem acredita sempre alcança!
 - 📫 Caso queira falar comigo, em alguma das redes dos ícones abaixo ou no e-mail lucasvalpereiro@hotmail.com
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucasValpereiro&show_icons=true&theme=chartreuse-dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?LucasValpereiro=anuraghazra&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasValpereiro&layout=compact&theme=chartreuse-dark)
 
